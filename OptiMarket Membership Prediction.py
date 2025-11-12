@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load datasets
-df = pd.read_excel('/content/drive/MyDrive/2025 Summer DATA642 Group Project.xlsx', header=0)
+df = pd.read_excel('-----/2025 Summer DATA642 Group Project.xlsx', header=0)
 
 # Shape of the data
 print(df.shape)
